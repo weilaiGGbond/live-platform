@@ -1,10 +1,13 @@
 <template>
-  4444
+  <videoShow/>
 </template>
 
 <script>
+import videoShow from '@/components/layout/viedoshow.vue'
 export default {
-  name:forthPlayer
+  components:{
+    videoShow
+  }
 }
 </script>
 

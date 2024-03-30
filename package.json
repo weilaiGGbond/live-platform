@@ -12,6 +12,7 @@
   },
   "dependencies": {
     "@vue/runtime-core": "^3.4.21",
+    "socket.io-client": "^4.7.5",
     "vue": "^3.4.21"
   },
   "devDependencies": {
